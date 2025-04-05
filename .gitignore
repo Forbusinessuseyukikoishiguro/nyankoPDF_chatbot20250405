@@ -1,0 +1,14 @@
+# 環境変数
+.env
+
+# キャッシュファイル
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境
+venv/
+ENV/
+
+# インデックスの保存先
+storage_*/
