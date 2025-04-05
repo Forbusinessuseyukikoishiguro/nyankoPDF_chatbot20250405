@@ -1,0 +1,2 @@
+# nyankoPDF_chatbot20250405
+【note公開】VisualStudioコードで使えるにゃんと一緒にPDF要約＆質問機能チャットボット20250405
